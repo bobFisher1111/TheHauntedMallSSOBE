@@ -1,0 +1,10 @@
+/*
+    - Notes For Back Backed: SSO 
+        - Libraries:
+            - Expresss - framework for node.js
+                - npm i express
+            - nodemon - automatically restarting server when changes saved
+                - npm i nodemon
+                - need to update in package.json/scripts/
+                    "dev": "nodemon index.js" // used for starting server, npm run dev
+*/

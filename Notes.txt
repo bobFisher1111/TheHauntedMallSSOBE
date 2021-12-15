@@ -6,5 +6,16 @@
             - nodemon - automatically restarting server when changes saved
                 - npm i nodemon
                 - need to update in package.json/scripts/
-                    "dev": "nodemon index.js" // used for starting server, npm run dev
+                    "dev": "nodemon index.js" // used for starting server, npm run dev or npm dev
+            - jsonwebtoken: makes use of node-jws
+              -npm i jsonwebtoken
+            - cors:
+              - https://www.npmjs.com/package/cors
+              - npm i cors
+            - mongoose db
+              - https://www.npmjs.com/package/mongoose
+              - npm i mongoose
+            - bcryptjs: encrypt passwords: hasing algorithem
+              - https://www.npmjs.com/package/bcryptjs
+              - npm i bcryptjs
 */
